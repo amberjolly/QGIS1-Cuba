@@ -1,6 +1,6 @@
 ﻿# Cuba in QGIS: Adding Vectors and Layers
 [originally used on Monday March 28, 2016, altered September 15, 2016]
-Author: charles.grand@mavs.uta.edu
+Author: charles.grand@mavs.uta.edu, with aditions by Amber Jolly
 ![Test image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/2000px-Flag_of_Cuba.svg.png)
 ### This tutorial is designed so you can practice the skills you used in the [Programming Historian QGIS Tutorial about adding layers](http://programminghistorian.org/lessons/qgis-layers "Links to Programming Historian")
 
